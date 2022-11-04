@@ -1,3 +1,5 @@
+# NOTICE: This is a fork of the LLVM repo. Just for internal use for development of a Clang plugin for the Uoft ECE496 capstone.
+
 # The LLVM Compiler Infrastructure
 
 This directory and its sub-directories contain the source code for LLVM,
